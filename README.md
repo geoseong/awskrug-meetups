@@ -2,6 +2,8 @@ AWS한국 사용자 모임(AWSKRUG)에서는 다양한 정기 모임 및 분야�
 
 AWSKRUG 모임에 참여하실 분은 [소모임 일정](https://www.meetup.com/awskrug/events/calendar/)을 참고하시고, 밋업에 가입하셔서 참가 신청을 하시면 됩니다.
 
+AWS한국 사용자 모임(AWSKRUG)은 [AWS 이벤트 행동강령](./CodeOfConduct.md)을 준수합니다.
+
 <img src="images/awskrug-meetup.png" width="500">
 
 ## 바로가기
